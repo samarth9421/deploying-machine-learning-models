@@ -6,6 +6,7 @@ on:
       - master
       - test
 
+
 jobs:
   sonarcloud:
     name: SonarCloud
